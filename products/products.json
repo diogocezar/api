@@ -1,0 +1,19 @@
+{
+	"products" : [
+		{
+			"id" : "1",
+			"name" : "Coca-Cola",
+			"price": "3.45"
+		},
+		{
+			"id" : "2",
+			"name" : "Skol",
+			"price": "2.45"
+		},
+		{
+			"id" : "3",
+			"name" : "Pão",
+			"price": "1.03"
+		}
+	]
+}
